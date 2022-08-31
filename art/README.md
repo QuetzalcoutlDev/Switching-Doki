@@ -1,5 +1,7 @@
 # Switching Dokis sprites
 
+https://www.mediafire.com/file/wiqxg71kveqh2xa/Switching-Dokis_sprites_0.1.zip/file
+
 Estos son los proyectos de Photoshop de los nuevos sprites que pertenecen a la Switching Dokis, son sprites que fueron hechos para nuevos mods que espero que sean buenos ;)
 
 ## Nuevo en los sprites
