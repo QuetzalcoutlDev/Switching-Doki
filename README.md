@@ -28,7 +28,8 @@ Esfuerzate en tu mod, por que te dire esto: *Los mods de DDLC dejaron de ser pop
 1. Lonely Imagination (VN inspirada por DDLC) :https://quetzalcoutl.itch.io/Alone
 2. FNF mods: https://gamebanana.com/members/2176391
 3. LMMS projects: https://lmms.io/lsp/?action=browse&user=QuetzalcoultDev
-4. Doki Doki Switching: 
+4. Doki Doki Switching: https://www.dokidokispanish.club/mods-originales/dokidokiswitching
+5. Soundcloud: https://soundcloud.com/fredgio-dazzle
 
 Comprame un cafe :p: https://www.ko-fi.com/quetzalcoutl
 
@@ -38,7 +39,6 @@ Sigueme en Twiiter: https://twitter.com/ElQuetzalcoutl
 
 Puedes descargar mods de DDLC o subir los tuyos en esta página:
 https://www.dokidokispanish.club/
-
 
 
 *Los sprites de SWitching Doki están bajo la licencia Creative Commons 4.0 (CC BY) siguiendo los acuerdos de propiedad intelectual de Dan Salvato.*
